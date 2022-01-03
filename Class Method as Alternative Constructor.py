@@ -10,7 +10,7 @@ class Employee:
     def printdetails(self):
         return f"The Name is {self.name}. Salary is {self.salary} and Role is {self.role}."
     
-    @classmethod  #using classmethod
+    @classmethod  #using classmethod when we don't want self to automatically takes place in our function we use classmethod
     def change_leaves(cls, newleaves):
         cls.no_of_leaves = newleaves
     
