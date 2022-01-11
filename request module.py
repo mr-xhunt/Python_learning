@@ -26,3 +26,10 @@ def get_jsonparsed_data(url):
 
 url = ("https://financialmodelingprep.com/api/v3/search?query=AA&limit=10&exchange=NASDAQ&apikey=YOUR_API_KEY")
 print(get_jsonparsed_data(url))
+
+#orrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
+import requests
+r = requests.get("https://financialmodelingprep.com/api/v3/profile/AAPL?apikey=Your api Key")
+print(r.content)
+print(r.status_code)
