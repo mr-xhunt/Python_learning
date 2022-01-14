@@ -1,0 +1,3 @@
+#install pyinstaller
+#run python pyinstaller name.py
+#then your exe file is created 
