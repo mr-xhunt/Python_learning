@@ -1,3 +1,7 @@
 #install pyinstaller
-#run python pyinstaller name.py
+#run pyinstaller name.py
 #then your exe file is created 
+#remember by using this many files will be created like a game or software and there will be an exe file also
+
+#but if you only want one single exe file then
+#run pyinstaller --onefile name.py
