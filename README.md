@@ -1,8 +1,5 @@
 RADHE RADHE !
 
-# 365_day_code
-Challenge: To code regularly for 365 day this year 2022
-
 Here I will be Posting daily codes which i made while learning python programming 
 from CODE WITH HARRY 
 
